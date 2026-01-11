@@ -10,7 +10,7 @@
 
 <br />
 
-’m Gaurav, an AI and Machine Learning engineer passionate about building intelligent systems, scalable ML pipelines, and real-world AI applications. I focus on model development, data engineering, and deploying high‑performance AI solutions.
+Gaurav here, an AI and Machine Learning engineer passionate about building intelligent systems, scalable ML pipelines, and real-world AI applications. I focus on model development, data engineering, and deploying high‑performance AI solutions.
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
 
