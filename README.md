@@ -1,15 +1,5 @@
 ### Hello World 👋 It's [Gaurav!](https://github.com/yourusername)
 
-<br/>
-
-</a>
-<a href="https://www.linkedin.com/in/gauraviiitg/)">
-<img align="left" alt="Gaurav" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<br />
-
-<br />
-
 Gaurav here, an AI and Machine Learning engineer passionate about building intelligent systems, scalable ML pipelines, and real-world AI applications. I focus on model development, data engineering, and deploying high‑performance AI solutions.
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
