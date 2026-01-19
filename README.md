@@ -11,7 +11,7 @@ AI and Machine Learning engineer passionate about building intelligent systems, 
 - Experiment tracking, model versioning, and performance optimization
 
 **Personal Projects:**
-- AI-powered chat chat systems and intelligent assistants
+- AI-powered chat systems and intelligent assistants
 - Implementing an intelligent query classification system with SVM.
 - Research and experimentation with new architectures and training strategies
 
